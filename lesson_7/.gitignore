@@ -1,0 +1,6 @@
+.idea/
+framework/__pycache__
+framework/reuse_patterns/__pycache__
+__pycache__/
+db/patterns.sqlite
+patterns.sqlite
